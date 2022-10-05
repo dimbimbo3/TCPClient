@@ -1,0 +1,590 @@
+The returned HTTP file:
+
+Line 1:HTTP/1.1 200 OK
+Line 2:Date: Tue, 12 Oct 2021 01:18:47 GMT
+Line 3:Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+Line 4:X-Powered-By: PHP/5.4.16
+Line 5:Connection: close
+Line 6:Transfer-Encoding: chunked
+Line 7:Content-Type: text/html; charset=UTF-8
+Line 8:
+Line 9:53bb
+Line 10:<!-- saved from url=(0044)http://www.cs.montclair.edu/~wangd/pubs.html -->
+Line 11:<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+Line 12:<title>
+Line 13:Dajin Wang's Selected Publications
+Line 14:</title>
+Line 15:</head> 
+Line 16:
+Line 17:<body bgcolor="ffffff" text="000000" link="0000ff" vlink="000060">
+Line 18:<p>
+Line 19:<!--IMG BORDER=0 SRC="/Images/construction.gif" ALT="**"-->
+Line 20:<font size="5"><b> Recent Publications </b></font>
+Line 21:</p><p>
+Line 22:</p><ul>
+Line 23:Listing on <a href="https://dblp.org/pid/25/6593.html">DBLP</a> CS Bibliography Server<p>
+Line 24:<li>
+Line 25:<a href="https://ieeexplore.ieee.org/document/9423579">
+Line 26:Constructing Completely Independent Spanning Trees in a Family of Line-Graph-Based Data Center Networks</a>,
+Line 27:<br>
+Line 28:Yifeng Wang, Baolei Cheng, Yu Qian, and <b>Dajin Wang</b>,
+Line 29:<br>
+Line 30:to appear in <em>IEEE Transactions on Computers</em>.
+Line 31:<p>
+Line 32:</p>
+Line 33:</li>
+Line 34:<li>
+Line 35:<a href="https://ieeexplore.ieee.org/document/9194366">
+Line 36:A Novel Measurement for Network Reliability</a>,
+Line 37:<br>
+Line 38:Limei Lin, Yanze Huang, <b>Dajin Wang</b>, Sun-Yuan Hsieh, and Li Xu,
+Line 39:<br>
+Line 40:<em>IEEE Transactions on Computers</em>,
+Line 41:Vol. 70, Iss. 10, Oct. 2021, pp. 1719-1731.
+Line 42:<p>
+Line 43:</p>
+Line 44:</li>
+Line 45:<li>
+Line 46:<a href="https://doi.org/10.1016/j.amc.2021.126039">
+Line 47:The structure fault tolerance of arrangement graphs</a>,
+Line 48:<br>
+Line 49:Guozhen Zhang and <b>Dajin Wang</b>,
+Line 50:<br>
+Line 51:<em>Applied Mathematics and Computation</em>,
+Line 52:Vol. 400, July 2021.
+Line 53:<p>
+Line 54:</p></li>
+Line 55:<li>
+Line 56:<a href="https://doi.org/10.1016/j.dam.2021.02.017">
+Line 57:A new approach to finding the extra connectivity of graphs</a>,
+Line 58:<br>
+Line 59:Qiang Zhu, Fang Ma, Guodong Guo, and <b>Dajin Wang</b>,
+Line 60:<br>
+Line 61:<em>Discrete Applied Mathematics</em>,
+Line 62:Vol. 294, May 2021, pp. 265-271.
+Line 63:<p>
+Line 64:</p></li>
+Line 65:<li>
+Line 66:<a href="https://ieeexplore.ieee.org/document/9217977?source=authoralert">
+Line 67:Constructing Completely Independent Spanning Trees in Data Center Network Based on Augmented Cube</a>,
+Line 68:<br>
+Line 69:Guo Chen, Baolei Cheng, and <b>Dajin Wang</b>,
+Line 70:<br>
+Line 71:<em>IEEE Transactions on Parallel and Distributed Systems</em>,
+Line 72:Vol. 32, Iss. 3, Mar. 2021, pp. 665-673.
+Line 73:<p>
+Line 74:</p></li>
+Line 75:<li>
+Line 76:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304397520305144">
+Line 77:Fault diagnosability of Bicube networks under the PMC diagnostic model</a>,
+Line 78:<br>
+Line 79:Jiafei Liu, Shuming Zhou, Zhendong Gu, Qianru Zhou, and <b>Dajin Wang</b>,
+Line 80:<br>
+Line 81:<em>Theoretical Computer Science</em>,
+Line 82:Vol. 851, January 2021, pp. 14-23.
+Line 83:<p>
+Line 84:</p></li>
+Line 85:<li>
+Line 86:<a href="https://doi.org/10.1142/S0129626420500127">
+Line 87:Shapley Distance and Shapley Index for Some Special Graphs</a>,
+Line 88:<br>
+Line 89:Zhendong Gu, Shuming Zhou, Jiafei Liu, Qianru Zhou, and <b>Dajin Wang</b>
+Line 90:<br>
+Line 91:<em>Parallel Processing Letters</em>, Vol. 30, No. 4, 2050012, 2020.
+Line 92:<p>
+Line 93:</p></li>
+Line 94:<li>
+Line 95:<a href="Fundamenta_Informaticae177(2020).pdf">
+Line 96:The Diagnosability of (<i>K</i><sub>4</sub> &#8211 {<i>e</i>})-free Graphs under the PMC Diagnosis Model</a>,
+Line 97:<br>
+Line 98:Cheng-Kuan Lin, <b>Dajin Wang</b>, Tzu-Liang Kung, and Yuan-Hsiang Teng,
+Line 99:<br>
+Line 100:<em>Fundamenta Informaticae</em>, Vol. 177, 2020, pp. 181-188.
+Line 101:<p>
+Line 102:</p></li>
+Line 103:<li>
+Line 104:<a href="https://www.sciencedirect.com/science/article/pii/S0096300319306241">
+Line 105:Structure connectivity and substructure connectivity of bubble-sort star graph networks</a>,
+Line 106:<br>
+Line 107:Guozhen Zhang and  <b>Dajin Wang</b>,
+Line 108:<br>
+Line 109:<em>Applied Mathematics and Computation</em>,
+Line 110:Vol. 363, December 2019.
+Line 111:<p>
+Line 112:</p></li>
+Line 113:<li>
+Line 114:<a href="https://ieeexplore.ieee.org/document/7979592?source=authoralert">
+Line 115:Relating extra connectivity and extra conditional diagnosability in regular networks</a>,
+Line 116:<br>
+Line 117:Limei Lin, Li Xu, Riqing Chen, Sun-Yuan Hsieh, and <b>Dajin Wang</b>,
+Line 118:<br>
+Line 119:<em>IEEE Transactions on Dependable and Secure Computing</em>,
+Line 120:Vol. 16, Iss. 6, Nov./Dec. 2019, pp. 1086-1097.
+Line 121:<p>
+Line 122:</p></li>
+Line 123:<li>
+Line 124:<a href="https://www.sciencedirect.com/science/article/pii/S0304397519304141?utm_campaign=STMJ_75273_AUTH_SERV_PPUB&utm_medium=email&utm_dgroup=Email1Publishing&utm_acid=21592923&SIS_ID=0&dgcid=STMJ_75273_AUTH_SERV_PPUB&CMX_ID=&utm_in=DM584300&utm_source=AC_30">
+Line 125:Probabilistic diagnosis of clustered faults for hypercube-based multiprocessor system</a>,
+Line 126:<br>
+Line 127:Mengjie Lv, Shuming Zhou, Xueli Sun, Guanqin Lian, Jiafei Liu, and  <b>Dajin Wang</b>,
+Line 128:<br>
+Line 129:<em>Theoretical Computer Science</em>,
+Line 130:Vol. 793, November 2019, pp. 113-131.
+Line 131:<p>
+Line 132:</p></li>
+Line 133:<li>
+Line 134:<a href="https://ieeexplore.ieee.org/abstract/document/8865023">
+Line 135:Component reliability evaluation on Split-Stars</a>,
+Line 136:<br>
+Line 137:Limei Lin, Yanze Huang, <b>Dajin Wang</b>, and Li Xu,
+Line 138:<br>
+Line 139:<em>IEEE Access</em>,
+Line 140:No. 7, 147939-147953, October 2019.
+Line 141:<p>
+Line 142:</p></li>
+Line 143:<li>
+Line 144:<a href="https://ieeexplore.ieee.org/abstract/document/8839769">
+Line 145:Structure connectivity and substructure connectivity of <i>k</i>-ary <i>n</i>-cube networks</a>,
+Line 146:<br>
+Line 147:Guozhen Zhang and <b>Dajin Wang</b>,
+Line 148:<br>
+Line 149:<em>IEEE Access</em>,
+Line 150:No. 7, 134496-134504, September 2019.
+Line 151:<p>
+Line 152:</p></li>
+Line 153:<li>
+Line 154:<a href="https://www.sciencedirect.com/science/article/pii/S1383762118302923">
+Line 155:vSimilar: A high-adaptive VM scheduler based on the CPU pool mechanism</a>,
+Line 156:<br>
+Line 157:Liwei Lin, Xiaodong Liu, Ruhui Ma, Jian Li, <b>Dajin Wang</b>, and Haibing Guan,
+Line 158:<br>
+Line 159:<em>Journal of Systems Architecture</em>,
+Line 160:Vol. 98, September 2019, pp. 361-373.
+Line 161:<p>
+Line 162:</p></li>
+Line 163:<li>
+Line 164:<a href="https://www.sciencedirect.com/science/article/pii/S0307904X19300320">
+Line 165:A propagation model with defensive measures for PLC-PC worms in industrial networks</a>,
+Line 166:<br>
+Line 167:Yu Yao, Chuan Sheng, Qiang Fu, Hanxin Liu, and <b>Dajin Wang</b>,
+Line 168:<br>
+Line 169:<em>Applied Mathematical Modelling</em>,
+Line 170:Vol. 69, May 2019, pp. 696-713.
+Line 171:<p>
+Line 172:</p></li>
+Line 173:<li>
+Line 174:<a href="https://www.researchgate.net/publication/330746161_Minimum_Neighborhood_of_Alternating_Group_Graphs">
+Line 175:Minimum neighborhood of Alternating Group Graphs</a>,
+Line 176:<br>
+Line 177:Yanze Huang, Limei Lin, <b>Dajin Wang</b>, and Li Xu,
+Line 178:<br>
+Line 179:<em>IEEE Access</em>,
+Line 180:No. 7, 17299-17311, January 2019.
+Line 181:<p>
+Line 182:</p></li>
+Line 183:<li>
+Line 184:<a href="https://ieeexplore.ieee.org/document/7517336/">
+Line 185:The <i>g</i>-Good-Neighbor conditional diagnosability of Arrangement Graphs</a>,
+Line 186:<br>
+Line 187:Limei Lin, Li Xu, <b>Dajin Wang</b>, and Shuming Zhou,
+Line 188:<br>
+Line 189:<em>IEEE Transactions on Dependable and Secure Computing</em>,
+Line 190:Vol. 15, No. 3, May-June 2018.
+Line 191:<p>
+Line 192:</p></li>
+Line 193:<li>
+Line 194:<a href="https://www.ncbi.nlm.nih.gov/pubmed/29958462">
+Line 195:Enhancing received signal strength-based localization through coverage hole detection and recovery</a>,
+Line 196:<br>
+Line 197:Shuangjiao Zhai, Zhanyong Tang, <b>Dajin Wang</b>, Qingpei Li, Zhanglei Li, Xiaojiang Chen, Dingyi Fang, Feng Chen, and Zheng Wang,
+Line 198:<br>
+Line 199:<em>Sensors</em>,
+Line 200:18(7): 2075, June 2018.
+Line 201:<p>
+Line 202:</p></li>
+Line 203:<li>
+Line 204:<a href="https://www.sciencedirect.com/science/article/pii/S0304397518301713">
+Line 205:On the reliability of alternating group graph-based networks</a>,
+Line 206:<br>
+Line 207:Yanze Huang, Limei Lin, and <b>Dajin Wang</b>,
+Line 208:<br>
+Line 209:<em>Theoretical Computer Science</em>,
+Line 210:Vol. 728, No. 5, June 2018.
+Line 211:<p>
+Line 212:</p></li>
+Line 213:<li>
+Line 214:<a href="https://www.worldscientific.com/doi/10.1142/S0219265918500147">
+Line 215:Software-defined networking switches for fast single-link failure recovery</a>,
+Line 216:<br>
+Line 217:Dawei Li, Jie Wu, <b>Dajin Wang</b>, and Jiayin Wang,
+Line 218:<br>
+Line 219:<em>Journal of Interconnection Networks</em>,
+Line 220:Vol. 18, No. 4, March 2018.
+Line 221:<p>
+Line 222:</p></li>
+Line 223:<li>
+Line 224:<a href="http://ieeexplore.ieee.org/document/8048683/">
+Line 225:Reliability assessment of multiprocessor system based on (<i>n,k</i>)-Star network</a>,
+Line 226:<br>
+Line 227:Shuming Zhou, Xiaowang Li, Jinqiang Li, and <b>Dajin Wang</b>,
+Line 228:<br>
+Line 229:<em>IEEE Transactions on Reliability</em>,
+Line 230:Vol. 66, No. 4, December 2017.
+Line 231:<p>
+Line 232:</p></li>
+Line 233:<li>
+Line 234:<a href="http://www.sciencedirect.com/science/article/pii/S0166218X16305728">
+Line 235:Constructing completely independent spanning trees in crossed cubes</a>,
+Line 236:<br>
+Line 237:Baolei Cheng, <b>Dajin Wang</b>, and Jianxi Fan,
+Line 238:<br>
+Line 239:<em>Discrete Applied Mathematics</em>,
+Line 240:Vol. 219, No. 11, March 2017.
+Line 241:<p>
+Line 242:</p></li>
+Line 243:<li>
+Line 244:<a href="https://link.springer.com/article/10.1007/s00500-015-1962-4">
+Line 245:Uncertain random spectra: a new metric for assessing the survivability of mobile wireless sensor network</a>,
+Line 246:<br>
+Line 247:Li Xu, Jing Zhang, Pei-Wei Tsai, Wei Wu, and <b>Dajin Wang</b>,
+Line 248:<br>
+Line 249:<em>Soft Computing</em>,
+Line 250:Vol. 21, No. 10, May 2017.
+Line 251:<p>
+Line 252:</p></li>
+Line 253:<li>
+Line 254:<a href="http://ieeexplore.ieee.org/document/7476103/">
+Line 255:Cluster subdivision towards power savings for randomly deployed WSNs -- an analysis using 2-D spatial poisson process</a>,
+Line 256:<br>
+Line 257:<b>Dajin Wang</b>,
+Line 258:<br>
+Line 259:<em>Proc. 7th International Conference on Information and Communication Systems (ICICS)</em>,
+Line 260:April 2016, pp. 156-161.
+Line 261:<p>
+Line 262:</p></li>
+Line 263:<li>
+Line 264:<a href="http://ieeexplore.ieee.org/document/7505605">
+Line 265:The reliability analysis based on subsystems of (<i>n,k</i>)-Star graph</a>,
+Line 266:<br>
+Line 267:Xiaowang Li, Shuming Zhou, Xiang Xu, Limei Lin, and <b>Dajin Wang</b>,
+Line 268:<br>
+Line 269:<em>IEEE Transactions on Reliability</em>,
+Line 270:Vol. 65, No. 6, December 2016.
+Line 271:<p>
+Line 272:</p></li>
+Line 273:<li>
+Line 274:<a href="http://www.sciencedirect.com/science/article/pii/S0304397516300536">
+Line 275:Structure connectivity and substructure connectivity of hypercubes</a>,<br>
+Line 276:Cheng-Kuan Lin, Lili Zhang, Jianxi Fan, and <b>Dajin Wang</b>,<br>
+Line 277:<em>Theoretical Computer Science</em>,
+Line 278:Vol. 634, June 2016.
+Line 279:<p>
+Line 280:</p></li>
+Line 281:<li>
+Line 282:<a href="http://onlinelibrary.wiley.com/doi/10.1002/dac.3201/abstract">
+Line 283:In-band bootstrapping in database-driven multi-hop cognitive radio networks</a>,<br>
+Line 284:Juncheng Jia, <b>Dajin Wang</b>, Zhengqiu He, Jianxi Fan, Shukui Zhang, Jin Wang, and Jianfeng Yan,<br>
+Line 285:<em>International Journal of Communication Systems</em>,
+Line 286:Vol. 29(17), November 2016.
+Line 287:<p>
+Line 288:</p></li>
+Line 289:<li>
+Line 290:<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7072564">
+Line 291:The reliability of subgraphs in the Arrangement Graph</a>,<br>
+Line 292:Limei Lin, Li Xu, Shuming Zhou, and <b>Dajin Wang</b>,<br>
+Line 293:<em>IEEE Transactions on Reliability</em>,
+Line 294:Vol. 64, No. 2, June 2015.
+Line 295:<p>
+Line 296:</p></li><li>
+Line 297:<a href="http://www.oldcitypublishing.com/journals/ahswn-home/ahswn-issue-contents/ahswn-volume-28-number-1-2-2015/ahswn-28-1-2-p-19-39/">
+Line 298:Approximate algorithms for vertex cover problems in WSN topology design</a>,<br>
+Line 299:Yuanchao Liu, Jianxi Fan, <b>Dajin Wang</b>, Hongwei Du, Shukui Zhang, and Jing Lv,<br>
+Line 300:<em>Ad Hoc &amp; Sensor Wireless Networks</em>,
+Line 301:Vol. 28, No. 1-2, 2015.
+Line 302:<p>
+Line 303:</p></li><li>
+Line 304:<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6879268">
+Line 305:The extra connectivity and conditional diagnosability of Alternating Group networks</a>,<br>
+Line 306:Limei Lin, Shuming Zhou, Li Xu, and <b>Dajin Wang</b>,<br>
+Line 307:<em>IEEE Transactions on Parallel and Distributed Systems</em>,
+Line 308:Vol. 26, No. 8, August 2015.
+Line 309:<p>
+Line 310:</p></li><li>
+Line 311:<a href="http://www.computer.org/csdl/trans/tc/preprint/06684152-abs.html">
+Line 312:The <i>t</i>/<i>k</i> diagnosability of Star Graph networks</a>,<br>
+Line 313:Shuming Zhou, Limei Lin, Li Xu, and <b>Dajin Wang</b>,<br>
+Line 314:<em>IEEE Transactions on Computers</em>,
+Line 315:Vol. 64, No. 2, February 2015.
+Line 316:<p>
+Line 317:</p></li><li>
+Line 318:<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&amp;arnumber=7371502">
+Line 319:A reliable broadcasting algorithm in Locally Twisted Cubes</a>,<br>
+Line 320:Baolei Cheng, Jianxi Fan, <b>Dajin Wang</b>, and Jiwen Yang,<br>
+Line 321:<em>
+Line 322:IEEE 2nd Int'l Conf. on Cyber Security and Cloud Computing (CSCloud 2015)</em>, Nov. 2015.
+Line 323:<p>
+Line 324:</p></li><li>
+Line 325:<a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&amp;arnumber=7057859&amp;url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F7051394%2F7057846%2F07057859.pdf%3Farnumber%3D7057859">
+Line 326:A cost-effective scheme for restoring connectivity of disconnected WSNs</a>,<br>
+Line 327:<b>Dajin Wang</b>, Juncheng Jia, and Liwei Lin,<br>
+Line 328:<em>
+Line 329:The 29th Int'l Conf. on Information Networking (ICOIN 2015)</em>, Jan. 2015.
+Line 330:<p>
+Line 331:</p></li><li>
+Line 332:<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&amp;arnumber=7387304&amp;url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7387304">
+Line 333:The minimal exposure path in Mobile Wireless Sensor Network</a>,<br>
+Line 334:Lili Zhang, Xiaoqiang Chen, Jianxi Fan, <b>Dajin Wang</b>, and Cheng-Kuan Lin,<br>
+Line 335:<em>
+Line 336:Seventh Int'l Symposium on Parallel Architectures, Algorithms and Programming (PAAP 2015)</em>, Dec. 2015.
+Line 337:<p>
+Line 338:</p></li><li>
+Line 339:<a href="http://www.sciencedirect.com/science/article/pii/S0304397514005015">
+Line 340:Conditional diagnosability of Arrangement Graphs under the PMC model</a>,<br>
+Line 341:Limei Lin, Shuming Zhou, Li Xu, and <b>Dajin Wang</b>,<br>
+Line 342:<em>Theoretical Computer Science</em>, Vol. 548, Sept. 2014.
+Line 343:<p>
+Line 344:</p></li><li>
+Line 345:<a href="http://doi.ieeecomputersociety.org/10.1109/TC.2013.64">
+Line 346:Relating diagnosability, strong diagnosability and conditional diagnosability of strong networks</a>,<br>
+Line 347:Qiang Zhu, Guodong Guo, and <b>Dajin Wang</b>,<br>
+Line 348:<em>IEEE Transactions on Computers</em>,
+Line 349:Vol. 63, No. 7, July 2014.
+Line 350:<p>
+Line 351:</p></li><li>
+Line 352:"In-band bootstrapping in database-driven multi-hop cognitive radio
+Line 353:networks", <br>
+Line 354:Juncheng Jia, <b>Dajin Wang</b>, Jianxi Fan, and Shukui Zhang,<br>
+Line 355:<em>The 11th IEEE Consumer Communications and
+Line 356:Networking Conf.</em>, Jan. 2014.
+Line 357:<p>
+Line 358:</p></li><li>
+Line 359:<a href="http://www.igi-global.com/article/optimization-power-allocation-multimedia-wireless/78552">
+Line 360:Optimization of power allocation in multimedia wireless sensor networks</a>,<br>
+Line 361:Ming Yang, <b>Dajin Wang</b>, and Nikolaos Bourbakis,<br>
+Line 362:<em>Int'l. J. of Monitoring and Surveillance Technologies Research (IJMSTR)</em>, Vol. 1, No. 1, 2013.
+Line 363:<p>
+Line 364:</p></li><li>
+Line 365:<a href="http://www.computer.org/csdl/trans/td/2012/11/ttd2012112117-abs.html">
+Line 366:Hamiltonian embedding in crossed cubes with failed links</a>,<br>
+Line 367:<b>Dajin Wang</b>,
+Line 368:<em>IEEE Transactions on Parallel and Distributed Systems</em>, Vol. 23, No. 11, November 2012.
+Line 369:<p>
+Line 370:</p></li><li>
+Line 371:<a href="http://onlinelibrary.wiley.com/doi/10.1002/net.20462/abstract">
+Line 372:Constructing optimal subnetworks for the crossed cube network</a>,<br>
+Line 373:<b>Dajin Wang</b>, 
+Line 374:<em>Networks</em> (Wiley), Vol. 60, No. 2, 2012.
+Line 375:<p>
+Line 376:</p></li><li>
+Line 377:Computing the configuration space on reconfiguration mesh multiprocessors,<br>
+Line 378:John Jenq, <b>Dajin Wang</b>, and Wingning Li, 
+Line 379:<em>Journal of Selected Areas in Robotics and Control (JSRC)</em>, June Ed., 2011.
+Line 380:<p>
+Line 381:</p></li><li>
+Line 382:<a href="http://www.sciencedirect.com/science/article/pii/S1570870511000631">
+Line 383:A study of subdividing hexagon-clustered WSN for power saving: Analysis and simulation</a>,<br>
+Line 384:<b>Dajin Wang</b>, Liwei Lin, and Li Xu, 
+Line 385:<em>Ad Hoc Networks</em>, Vol. 9, No. 7, 2011.
+Line 386:<p>
+Line 387:</p></li><li>
+Line 388:<a href="http://dl.acm.org/citation.cfm?id=1805308">
+Line 389:Clustering mesh-like wireless sensor networks with
+Line 390:an energy-efficient scheme</a>, <br> 
+Line 391:<b>Dajin Wang</b>,
+Line 392:<em>Int'l. J. Sensor Networks</em>,
+Line 393:Vol. 7, No. 4, 2010.
+Line 394:<p>
+Line 395:</p></li><li>
+Line 396:"A power-mitigating scheme for clusterheads in wireless sensor networks", <br>
+Line 397:<b>Dajin Wang</b>,
+Line 398:<em>Ad Hoc &amp; Sensor Wireless Networks</em>,
+Line 399:Vol. 9, No. 3-4, 2010.
+Line 400:<p>
+Line 401:</p></li><li>
+Line 402:"Embedding multi-dimensional meshes into twisted cubes",<br>
+Line 403:Qiang Dong, Xiaofan Yang, and <b>Dajin Wang</b>,
+Line 404:<em>Computers &amp; Electrical Engineering</em>, Vol. 36, No. 6, 2010.
+Line 405:<p>
+Line 406:</p></li><li>
+Line 407:"Embedding paths and cycles in 3-ary n-cubes with faulty nodes and links",<br>
+Line 408:Qiang Dong, Xiaofan Yang, and <b>Dajin Wang</b>,
+Line 409:<em>Information Sciences - Elsevier</em>, Vol. 180, No. 1, 2010.
+Line 410:</li></ul>
+Line 411:
+Line 412:<p>
+Line 413:<font size="5"><b> Selected Past Publications </b></font>
+Line 414:</p><p>
+Line 415:</p><ul>
+Line 416:<li>
+Line 417:"Small-world model based topology optimization strategy for heterogeneous wireless
+Line 418:sensor networks",<br>
+Line 419:Li Xu, Xiucai Ye, <b>Dajin Wang</b>, and Liwei Lin,
+Line 420:<em>Int'l J. Wireless Communications and Networking</em>,
+Line 421:1(2) Dec. 2009.
+Line 422:<p>
+Line 423:</p></li><li>
+Line 424:"An analytical study of subdividing hexagon-clustered WSN for power saving",<br>
+Line 425:<b>Dajin Wang</b>,
+Line 426:<em>The 6th IEEE Int'l. Conf. on Mobile Ad-hoc and Sensor Systems (MASS 2009)</em>,
+Line 427:October 2009.
+Line 428:<p>
+Line 429:</p></li><li>
+Line 430:"A new fault-information model for adaptive &amp; minimal routing in 3-D meshes",<br>
+Line 431:Zhen Jiang, Jie Wu, and <b>Dajin Wang</b>,
+Line 432:<em>IEEE Transactions on Reliability</em>, Vol. 57, No. 1, 2008.
+Line 433:<p>
+Line 434:</p></li><li>
+Line 435:<a href="http://dx.doi.org/10.1016/j.parco.2008.03.002">
+Line 436:A linear-time algorithm for computing collision-free path on reconfigurable mesh</a>,<br>
+Line 437:<b>Dajin Wang</b>,
+Line 438:<em>Parallel Computing</em>, Vol. 34, No. 9, September 2008.
+Line 439:<p>
+Line 440:</p></li><li>
+Line 441:"An energy-efficient clusterhead assignment scheme for hierarchical wireless sensor networks",<br>
+Line 442:<b>Dajin Wang</b>,
+Line 443:<em>Int'l. Journal of Wireless Information Networks</em>, 
+Line 444:Vol. 5, No. 2, June 2008.
+Line 445:<p>
+Line 446:</p></li><li>
+Line 447:"Fault-tolerance schemes for clusterheads in clustered mesh networks",<br>
+Line 448:Jason Zurawski and <b>Dajin Wang</b>,
+Line 449:<em>Int'l. Journal of Parallel, Emergent and Distributed Systems</em>,
+Line 450:Vol. 23, No. 3, June 2008.
+Line 451:<p>
+Line 452:</p></li><li>
+Line 453:<a href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?tp=&amp;arnumber=4359422&amp;isnumber=4444326">
+Line 454:On embedding Hamiltonian cycles in crossed cubes</a>,<br>
+Line 455:<b>Dajin Wang</b>,
+Line 456:<em>IEEE Transactions on Parallel and Distributed Systems</em>, Vol. 19, No. 3, March 2008.
+Line 457:<p>
+Line 458:</p></li><li>
+Line 459:<a href="http://www.cs.montclair.edu/~wangd/JOIN_Vol8_No3_285-304.pdf">
+Line 460:An empirical study of hierarchical division for mesh-structured networks</a>,<br>
+Line 461:<b>Dajin Wang</b>,
+Line 462:<em>Journal of Interconnection Networks</em>, 
+Line 463:Vol. 8, No. 3, November 2007.
+Line 464:<p>
+Line 465:</p></li><li>
+Line 466:<a href="http://www.cs.montclair.edu/~wangd/SYSARC722.pdf">
+Line 467:A heuristic fault-tolerant routing algorithm in mesh using rectilinear-monotone polygonal fault blocks</a>,<br>
+Line 468:<b>Dajin Wang</b>,
+Line 469:<em>Journal of Systems Architecture </em>, 
+Line 470:Vol. 53, No. 9, September 2007.
+Line 471:<p>
+Line 472:</p></li><li>
+Line 473:"A power-balancing scheme for clustered Wireless Sensor Networks", <br>
+Line 474:<b>Dajin Wang</b>,
+Line 475:<em>2007 Int'l Conf. on Future Generation Communication and Networking</em>,
+Line 476:December 2007.
+Line 477:<p>
+Line 478:</p></li><li>
+Line 479:<a href="http://www.cs.montclair.edu/~wangd/MSN06_43250579.pdf">
+Line 480:A graph-center-based scheme for energy-efficient data collection in wireless sensor networks</a>,<br>
+Line 481:<b>Dajin Wang</b>,
+Line 482:<em> 
+Line 483:The Second Int'l. Conf. on Mobile Ad-hoc and Sensor Networks (MSN 2006)</em>,
+Line 484:Lecture Notes in Computer Science (LNCS), Vol. 4325, December 2006.
+Line 485:<p>
+Line 486:</p></li><li>
+Line 487:"A coloring based backbone construction algorithm in Wireless Ad Hoc Network",<br>
+Line 488:Z.-W. Lin, L. Xu, <b>D. Wang</b>, and J. Gao,
+Line 489:<em>Int'l Conf. on Grid and Pervasive Computing</em>, 
+Line 490:Lecture Notes in Computer Science, Vol. 3947, May 2006.
+Line 491:<!--p-->
+Line 492:<!--li-->
+Line 493:<!--a href="IJPEDS_Vol20No2Jun05.pdf"-->
+Line 494:<!--Fault-tolerant and deadlock-free routing in 2-D meshes using 
+Line 495:<!rectilinear-monotone polygonal fault blocks</a-->
+Line 496:<!--Jie Wu and Dajin Wang,
+Line 497:<!International Journal of Parallel, Emergent and Distributed Systems,--> 
+Line 498:<!--Vol. 20, No. 2, June 2005.-->
+Line 499:<!--p-->
+Line 500:<!--li-->
+Line 501:<!--a href="ICPP05.pdf"-->
+Line 502:<!--A new fault information model for fault-tolerant adaptive and minimal
+Line 503:<!routing in 3-D meshes</a-->
+Line 504:<!--Zhen Jiang, Jie Wu, and Dajin Wang,-->
+Line 505:<!--2005 International Conference on Parallel Processing (ICPP'05)</em-->
+Line 506:<!--June 2005.-->
+Line 507:<p>
+Line 508:</p></li><li>
+Line 509:<a href="http://www.cs.montclair.edu/~wangd/IJFCS_Vol15No3Jun04.pdf">
+Line 510:On hierarchical configuration of distributed systems on mesh and 
+Line 511:hypercube</a>,<br>
+Line 512:<b>Dajin Wang</b> and Jiannong Cao,
+Line 513:<em>Int'l. Journal of Foundations of Computer Science, </em>
+Line 514:Vol. 15, No. 3, June 2004.
+Line 515:<p>
+Line 516:</p></li><li>
+Line 517:<a href="http://www.cs.montclair.edu/~wangd/IEEE-TCVol52No3Mar03Offprint.pdf">
+Line 518:A rectilinear-monotone polygonal fault block model for
+Line 519:fault-tolerant minimal routing in mesh</a>,<br>
+Line 520:<b>Dajin Wang</b>,
+Line 521:<em>IEEE Transactions on Computers</em>, Vol. 52, No. 3, March 2003.
+Line 522:<p>
+Line 523:<!--li "Fault-tolerant and deadlock-free routing in 2-D-->
+Line 524:<!--meshes using rectilinear-monotone polygonal fault blocks",-->
+Line 525:<!--Jie Wu and Dajin Wang,-->
+Line 526:<!--em 2002 International Conference on Parallel Processing (ICPP'02) /em,-->
+Line 527:<!--August 2002.-->
+Line 528:<!--li "An energy-efficient clusterhead assignment scheme for hierarchical--> 
+Line 529:<!--wireless sensor networks",-->
+Line 530:<!--Dajin Wang,-->
+Line 531:<!--em Proceedings of Fourth International Symposium on Communication Systems, -->
+Line 532:<!--Networks and Digital Signal Processing (CSNDSP'04)/em,-->
+Line 533:<!--July 2004.-->
+Line 534:</p></li><li>
+Line 535:"Fault-tolerant and deadlock-free routing in 2-D
+Line 536:meshes using rectilinear-monotone polygonal fault blocks",<br>
+Line 537:Jie Wu and <b>Dajin Wang</b>,
+Line 538:<em>2002 Int'l Conf. on Parallel Processing (ICPP'02)</em>,
+Line 539:August 2002.
+Line 540:<p>
+Line 541:</p></li><li>
+Line 542:<a href="http://www.cs.montclair.edu/~wangd/JSupercompVol20No3Nov01.pdf">
+Line 543:A low-cost fault-tolerant structure for the hypercube</a>,<br>
+Line 544:<b>Dajin Wang</b>,
+Line 545:<em>The Journal of Supercomputing</em>, Vol. 20, no. 3, November 2001.
+Line 546:<p>
+Line 547:</p></li><li> "Embedding Hamiltonian cycles into folded hypercubes with faulty links",<br>
+Line 548:<b>Dajin Wang</b>,
+Line 549:<em>Journal of Parallel and Distributed Computing</em>,
+Line 550:Vol. 61, April 2001.
+Line 551:<p>
+Line 552:</p></li><li> "The diagnosability of hypercubes with arbitrarily missing links",<br>
+Line 553:<b>Dajin Wang</b>,
+Line 554:<em>Journal of Systems Architecture</em>,
+Line 555:Vol. 46, February 2000.
+Line 556:<p>
+Line 557:</p></li><li> "Diagnosability of hypercubes and enhanced hypercubes under the
+Line 558:comparison diagnosis model", <br>
+Line 559:<b>Dajin Wang</b>,
+Line 560:<em>IEEE Transactions on Computers</em>, Vol. 48, no. 12, December 1999.
+Line 561:<p>
+Line 562:</p></li><li> "Two algorithms for a reachability problem in one-dimensional space",<br>
+Line 563:<b>Dajin Wang</b> and K. Sutner, 
+Line 564:<em>IEEE Transactions on Systems, Man and Cybernetics</em>, Vol. 28, no. 4, July 1998.
+Line 565:<p>
+Line 566:</p></li><li> "Minimum assignment of test links for hypercubes with lower fault
+Line 567:bounds", <br>
+Line 568:<b>Dajin Wang</b> and Z. Wang,
+Line 569:<em>Journal of Parallel and Distributed Computing</em>, Vol. 40, no. 2, February 1997.
+Line 570:<p>
+Line 571:</p></li><li> "Diagnosability of enhanced hypercubes", <br>
+Line 572:<b>Dajin Wang</b>,
+Line 573:<em>IEEE Transactions on Computers</em>, Vol. 43, no. 9, September 1994.
+Line 574:<p>
+Line 575:</p></li></ul>
+Line 576:
+Line 577:<center>
+Line 578:<p>
+Line 579:<!--IMG img border=0 width=600 height=5 SRC="divider-graphics-5.jpg" ALT="----------------"-->
+Line 580:</p></center>
+Line 581:
+Line 582:
+Line 583:</body></html>
+Line 584:
+Line 585:0
+Line 586:
+
+Closing Socket...
